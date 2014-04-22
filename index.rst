@@ -10,6 +10,8 @@ One-Line Installer(Linux/OSX): Execute the following in a shell to install WearS
 
 .. raw:: html
 
+Go to http://api.wearscript.com to generate a QR code to connect your Glass to WearScript and write WearScript code in our online development environment.
+
   <div style="position: relative;margin-bottom: 30px;padding-bottom: 56.25%;padding-top: 30px; height: 0; overflow: hidden;">
     <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="http://www.youtube.com/embed/0kqn4Q0qe0Q" frameborder="0"></iframe>
   </div>
